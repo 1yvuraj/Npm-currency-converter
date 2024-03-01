@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1yvuraj/yuvraj-currency-converter.git"
+    "url": "git+https://github.com/1yvuraj/Npm-currency-converter.git"
   },
   "keywords": [
     "npm"
@@ -17,9 +17,9 @@
   "author": "Yuvraj Aggarwal",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/1yvuraj/yuvraj-currency-converter/issues"
+    "url": "https://github.com/1yvuraj/Npm-currency-converter/issues"
   },
-  "homepage": "https://github.com/1yvuraj/yuvraj-currency-converter#readme",
+  "homepage": "https://github.com/1yvuraj/Npm-currency-converter#readme",
   "dependencies": {
     "@everapi/freecurrencyapi-js": "^1.0.1"
   }
